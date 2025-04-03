@@ -34,14 +34,7 @@
 
 ---
 
-## **📊 GitHub Stats & Activity**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish1332005&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish1332005&theme=radical" width="50%">
-</p>
-
----
 
 ## **🔥 Fun Animations**  
 <p align="center">
