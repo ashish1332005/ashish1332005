@@ -28,28 +28,6 @@
 
 ---
 
-## 🔥 **GitHub Stats & Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish1332005&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish1332005&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish1332005&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashish1332005&theme=radical&margin-w=10&row=1" />
-</p>
-
----
-
 ## 💼 **My Projects**
 🔹 **[Alumni Association Website](https://github.com/ashish1332005/allumni-association)** – A platform for alumni to connect  
 🔹 **[Snake Game](https://github.com/ashish1332005/Snake-Game)** 🎮 – Classic JavaScript snake game  
