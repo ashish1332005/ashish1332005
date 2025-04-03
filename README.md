@@ -1,10 +1,4 @@
-## Hi there 👋
 
-Here’s a **perfect GitHub profile README** for you, Ashish! 🚀  
-
-Copy and paste this into your **profile README** (`README.md` in your GitHub username repository).  
-
----
 
 # 👋 Hi, I'm **Ashish Sharma**  
 
