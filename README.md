@@ -16,7 +16,7 @@
 
 🚀 Intern at Reddy Bites Company
 
-⚡ Passionate About: AI, Ethical Hacking, Web Development
+⚡ Passionate About: AI,Matine Learning, Web Development
 
 🛠️ Tech Stack: Next.js, React.js, Node.js, Express.js, MongoDB, SQL, C++
 
