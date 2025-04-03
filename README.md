@@ -8,16 +8,24 @@
 
 ---
 
-## 🌟 **About Me**
-- 💻 **Full Stack Developer | Web Enthusiast**
-- 🎓 **Engineering Student | IT Branch**
-- 🚀 **Intern at Reddy Bites Company**
-- ⚡ **Passionate About:** AI, Ethical Hacking, Web Development
-- 🛠️ **Tech Stack:** Next.js, React.js, Node.js, Express.js, MongoDB, SQL, Java, C++
-- 🏆 **Hackathon Achievements:**
-  - 🏅 **2x Hackathon Participant (Jaipur)**
-  - 🏆 **CreateXX Hackathon Finalist (Top 5 in College & State-Level)**
-- 🎯 **Currently Learning:** Advanced React, AI & Machine Learning  
+🌟 About Me
+
+💻 Full Stack Developer | Web Enthusiast
+
+🎓 Engineering Student | IT Branch
+
+🚀 Intern at Reddy Bites Company
+
+⚡ Passionate About: AI, Ethical Hacking, Web Development
+
+🛠️ Tech Stack: Next.js, React.js, Node.js, Express.js, MongoDB, SQL, C++
+
+🏆 Hackathon Achievements:
+
+🏅 2x Hackathon Participant (Jaipur)
+
+🏆 CreateXX Hackathon Finalist (Top 5 in College & State-Level)
+
 
 ---
 
@@ -65,12 +73,15 @@
 
 ---
 
-## 💖 **Fun Facts About Me**
-- 🚀 **Love solving real-world problems with technology**
-- 🎯 **Always up for a coding challenge**
-- 🌍 **Passionate about Open Source and Hackathons**
-- 🔥 **Learning AI & ML to make the world smarter**
+💖 Fun Facts About Me
 
+🚀 Love solving real-world problems with technology
+
+🎯 Always up for a coding challenge
+
+🌍 Passionate about Open Source and Hackathons
+
+🔥 Learning AI & ML to make the world smarter
 ---
 
 ## 📊 **Visitor Count**
