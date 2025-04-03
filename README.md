@@ -56,13 +56,4 @@
 
 ### 🚀 **Star ⭐ my repositories if you like my work!**  
 
----
 
-### 🎨 **How to Use This?**  
-1️⃣ Create a **repository** named exactly **`ashish1332005`**  
-2️⃣ Add a **README.md** file to it  
-3️⃣ Paste this markdown and commit! 🎉  
-
-This will make your **GitHub profile super attractive**! 🚀🔥  
-
-Let me know if you want **more modifications!** 😊
