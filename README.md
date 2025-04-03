@@ -44,17 +44,8 @@
 🔹 **[BBMH Hospital Management System](https://github.com/ashish1332005/bbmh-hospital-management)** 🏥 – Managing hospital operations  
 🔹 **More Projects:** [GitHub Repositories](https://github.com/ashish1332005?tab=repositories)  
 
----
 
-## 📌 **Pinned Repositories**
-<p align="center">
-  <a href="https://github.com/ashish1332005/allumni-association">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish1332005&repo=allumni-association&theme=radical" />
-  </a>
-  <a href="https://github.com/ashish1332005/Snake-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish1332005&repo=Snake-Game&theme=radical" />
-  </a>
-</p>
+
 
 ---
 
