@@ -1,59 +1,70 @@
+# 🚀 **Ashish Sharma – Full-Stack Developer**
 
+![Profile Banner](path/to/your/banner.png)
 
-# **🌟 Hey there! I'm Ashish Sharma** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
-
-🚀 **Full-Stack Web Developer | Problem Solver | Tech Enthusiast**  
-
-🎯 Passionate about **building scalable web apps** and solving real-world problems with **technology**.  
-💡 Always working on **problem-solving projects** to enhance my skills.  
-👨‍💻 Currently an **Intern at Reddy Bites Company**.  
-⚡ Learning **Ethical Hacking, DSA, React.js, MongoDB, and SQL**.  
+```bash
+$ whoami
+> A passionate full-stack developer crafting problem-solving projects 🚀
+```
 
 ---
 
-## **🚀 Tech Stack**  
+## 👨‍💻 **About Me**
 
-### 🖥️ **Frontend Development**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
-
-### ⚙️ **Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)  
-
-### 🗄️ **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)  
-
-### 🛠 **Other Tools**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)  
+- 🔭 Currently an **Intern at Reddy Bites Company**
+- 💡 Passionate about **Problem-Solving & Web Development**
+- 💻 Tech Stack: **MERN | Next.js | JavaScript | C++ | SQL | Ethical Hacking**
+- 🚀 Building **scalable, efficient & secure applications**
+- 📚 Always learning **AI, ML, and Cybersecurity**
+- ⚡ Fun fact: **I love debugging more than coding!**
 
 ---
 
-
-
-## **🔥 Fun Animations**  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer!;Passionate+Problem+Solver!;Learning+New+Things+Everyday!" />
-</p>
+## 🚀 **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,cpp,java,sql,figma,linux,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-## **📬 Let's Connect!**  
-📧 **Email**: [ashishsharma01710171@gmail.com](mailto:ashishsharma01710171@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/ashishsharma](https://www.linkedin.com/in/ashishsharma)  
-🐙 **GitHub**: [github.com/ashish1332005](https://github.com/ashish1332005)  
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish1332005&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=ashish1332005&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
 
 ---
 
-### 🚀 **Star ⭐ my repositories if you like my work!**  
+## 🔥 **Top Projects**
+
+| Project | Description | Technologies |
+|---------|------------|--------------|
+| 🏥 **BBMH Hospital Management** | A system for managing hospital appointments & patients | MERN, Node.js, MongoDB |
+| 🏫 **Alumni Association** | Platform for alumni networking & events | HTML, CSS, JavaScript |
+| 🎮 **Snake Game** | Classic game built with modern web tech | JavaScript, CSS, HTML |
+| 🛒 **E-commerce Website** | Fully functional e-commerce platform | React, Next.js, MongoDB |
+
+📌 Check out my **[GitHub Repositories](https://github.com/ashish1332005?tab=repositories)** for more cool projects! 🚀
+
+---
+
+## 📬 **Let's Connect!**
+
+<p align="center">
+  <a href="mailto:ashishsharma01710171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ashish-sharma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ashish1332005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### ⚡ **Fun Fact:**
+```bash
+$ sudo rm -rf /stress
+> Stress successfully deleted 😎
+```
+
 
 
