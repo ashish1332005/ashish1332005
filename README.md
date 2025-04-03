@@ -38,17 +38,6 @@
 
 
 
-## 💼 **My Projects**
-🔹 **[Alumni Association Website](https://github.com/ashish1332005/allumni-association)** – A platform for alumni to connect  
-🔹 **[Snake Game](https://github.com/ashish1332005/Snake-Game)** 🎮 – Classic JavaScript snake game  
-🔹 **[BBMH Hospital Management System](https://github.com/ashish1332005/bbmh-hospital-management)** 🏥 – Managing hospital operations  
-🔹 **More Projects:** [GitHub Repositories](https://github.com/ashish1332005?tab=repositories)  
-
-
-
-
----
-
 ## 🌎 **Where You Can Find Me**
 <p align="center">
   <a href="mailto:ashishsharma01710171@gmail.com">
