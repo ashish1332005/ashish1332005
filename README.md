@@ -53,7 +53,7 @@
   <a href="mailto:ashishsharma01710171@gmail.com">
     <img src="https://img.shields.io/badge/Email-ashishsharma01710171@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ashish-sharma">
+  <a href="[https://www.linkedin.com/in/ashish-sharma](https://www.linkedin.com/in/ashish-sharma-7086b032a/)">
     <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Sharma-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/ashish1332005">
