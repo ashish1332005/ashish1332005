@@ -25,20 +25,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish1332005&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish1332005&theme=radical" height="180px"/>
-</p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashish1332005&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ### 📬 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsharma01710171@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish1332005)  
