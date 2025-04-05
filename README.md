@@ -24,7 +24,7 @@
 
 🏅 2x Hackathon Participant (Jaipur)
 
-🏆 CreateXX Hackathon Finalist (Top 5 in College & State-Level)
+🏆 CreateX Hackathon Finalist (Top 5 in College & State-Level)
 
 
 ---
