@@ -14,7 +14,7 @@
 
 🎓 Engineering Student | IT Branch
 
-🚀 Intern at Ready Bites Lab
+🚀 Intern at Ready Bites Software Lab
 
 ⚡ Passionate About: AI,Matine Learning, Web Development
 
