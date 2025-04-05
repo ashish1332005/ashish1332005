@@ -14,7 +14,7 @@
 
 🎓 Engineering Student | IT Branch
 
-🚀 Intern at Reddy Bites Company
+🚀 Intern at Ready Bites Lab
 
 ⚡ Passionate About: AI,Matine Learning, Web Development
 
