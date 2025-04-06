@@ -16,7 +16,7 @@
 
 🚀 Intern at Ready Bites Software Lab
 
-⚡ Passionate About: AI,Matine Learning, Web Development
+⚡ Passionate About: AI,Machine Learning, Web Development
 
 🛠️ Tech Stack: Next.js, React.js, Node.js, Express.js, MongoDB, SQL, C++
 
